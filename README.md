@@ -72,7 +72,14 @@ Existing Features
   - From the source Section drop-down menu, select Master Branch
   - Once the Master Branch as been selected, The page provided the link to the completed website.
  
-  - The live link Here[Rock Paper Scissor](https://giacoren6.github.io/Rock-Paper-Scissors-Game/)
+  - The live link Here[Rock Paper Scissors Game](https://giacoren6.github.io/Rock-Paper-Scissors-Game/)
+ 
+    ## Credits
+
+    ## Content
+
+  - __Media__
+  - The image was taken from[Pexels-Felix](https://www.pexels.com/photo/blue-universe-956981/)
 
 
 
