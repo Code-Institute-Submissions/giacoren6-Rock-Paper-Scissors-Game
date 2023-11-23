@@ -25,14 +25,14 @@ Existing Features
 - The Game Counter is made with one animation all the time the pointer is in this section.
 <img width="1453" alt="Screenshot 2023-11-23 at 17 40 20" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/e7fe9010-d532-480c-a026-bc7fbe0669fd">
 
--__The Game Result__
+- __The Game Result__
 - The Game Result is made with an animation to show to the user if Win,Lose or in case of Draw.
 - When The user choose one option, will come out the result with one animation.
 - The Java script code choose in a random number to made a choice who the Winner is.
 - The Result is clear to the user, Making the game easly to understand who won. 
 <img width="1445" alt="Screenshot 2023-11-23 at 17 56 02" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/f80b0f63-e96f-40b1-9aeb-132b0265c1f7">
 
--__The Game Rules__
+- __The Game Rules__
 - The Game Rules are very direct to the user and easly to understand.
 - The Rules of the game are explained, To the user in this section.
 - The Game Rules is made with one animation, all the time the pointer is in this section.
