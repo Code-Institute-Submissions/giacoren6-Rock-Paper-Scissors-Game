@@ -10,6 +10,8 @@ Welcome! and try the Game here[Rock-Paper-Scissors-Game](https://giacoren6.githu
 # Features
 Existing Features
 - __The Header__
+- It's located on top of the page,The header show the game,name:Rock,Paper,Scissors and have a crearly contrast with the background.
+- The header show's clearly the game to play.
 
 
 
