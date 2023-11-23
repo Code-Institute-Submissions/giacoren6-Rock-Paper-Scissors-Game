@@ -28,7 +28,9 @@ Existing Features
 - The Game Result is made with an animation to show to the user if Win,Lose or in case of Draw.
 - When The user choose one option, will come out the result with one animation.
 - The Java script code choose in a random number to made a choice who the Winner is.
-- The Result is clear to the user, Making the game easly to understand who won.
+- The Result is clear to the user, Making the game easly to understand who won. 
+<img width="1445" alt="Screenshot 2023-11-23 at 17 56 02" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/f80b0f63-e96f-40b1-9aeb-132b0265c1f7">
+
 
 
 
