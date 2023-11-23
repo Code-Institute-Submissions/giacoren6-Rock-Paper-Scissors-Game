@@ -20,6 +20,10 @@ Existing Features
 <img width="1375" alt="Screenshot 2023-11-23 at 17 35 58" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/38a919b7-80ac-4669-91ea-649b666ca78c">
 
 - __The Game Counter__
+- The Game Counter is made for the user manually, to increase the counter or decrease the counter in any moment.
+- Is avalible for the user for any game, Win to increase, Lose do decrease.
+<img width="1453" alt="Screenshot 2023-11-23 at 17 40 20" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/e7fe9010-d532-480c-a026-bc7fbe0669fd">
+
 
 
 
