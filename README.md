@@ -36,7 +36,7 @@ Existing Features
 - The Game Rules are very direct to the user and easly to understand.
 - The Rules of the game are explained, To the user in this section.
 - The Game Rules is made with one animation, all the time the pointer is in this section.
-<img width="1445" alt="Screenshot 2023-11-23 at 17 56 02" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/f80b0f63-e96f-40b1-9aeb-132b0265c1f7">
+<img width="1454" alt="Screenshot 2023-11-23 at 18 06 14" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/468de452-2378-4b92-ab01-978090cfc198">
 
 
 
