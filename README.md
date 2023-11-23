@@ -24,6 +24,12 @@ Existing Features
 - Is avalible for the user for any game, Win to increase, Lose do decrease.
 <img width="1453" alt="Screenshot 2023-11-23 at 17 40 20" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/e7fe9010-d532-480c-a026-bc7fbe0669fd">
 
+-__The Game Result__
+- The Game Result is made with an animation to show to the user if Win,Lose or in case of Draw.
+- When The user choose one option, will come out the result with one animation.
+- The Java script code choose in a random number to made a choice who the Winner is.
+- The Result is clear to the user, Making the game easly to understand who won.
+
 
 
 
