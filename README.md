@@ -38,6 +38,16 @@ Existing Features
 - The Game Rules is made with one animation, all the time the pointer is in this section.
 <img width="1454" alt="Screenshot 2023-11-23 at 18 06 14" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/468de452-2378-4b92-ab01-978090cfc198">
 
+- __Features Left to Implement__
+- When will be the time, I would love to add more animations in background
+
+- __Testing__
+- I Tested this Game Playning in Chrome and Safari.
+- I Confirmed The Game Results are always Corrected.
+- I Confirmed the Header,Options,Game Counter,Game Result and Game Rules are easly to read and easly to Understand.
+- I Confirmed That the Colors and the fonts choosen are easly to Understand, with the accessibility by running lighthouse in devtools. 
+
+
 
 
 
