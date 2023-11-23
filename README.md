@@ -49,6 +49,14 @@ Existing Features
   <img width="1132" alt="Screenshot 2023-11-23 at 18 56 12" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/2a25efbf-70fa-4569-b7ee-aabc1f2da312">
 
   - __I Confirm This Project responsive, looks good and all Functions on all standard screen sizes using devtools.__
+ 
+  ## Bugs
+  - __Solved Bugs__
+  - When i was deployng my project i've discoverd one bug with my Game.
+  - The issue was in index.html, cause i didn't add (assets/Js) in script with script.js.
+
+
+
 
   
 
