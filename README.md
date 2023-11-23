@@ -12,6 +12,8 @@ Existing Features
 - __The Header__
 - It's located on top of the page,The header show the game,name:Rock,Paper,Scissors and have a crearly contrast with the background.
 - The header show clearly the game to play.
+<img width="1454" alt="Screenshot 2023-11-23 at 17 24 38" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/1b5bf3b4-c466-4880-a949-9db4ffcca766">
+
 
 
 
