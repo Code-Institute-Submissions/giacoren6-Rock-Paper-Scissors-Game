@@ -9,7 +9,7 @@ Welcome! and try the Game here[Rock-Paper-Scissors-Game](https://giacoren6.githu
 
 # Features
 Existing Features
--__
+-__The Header-__
 
 
 
