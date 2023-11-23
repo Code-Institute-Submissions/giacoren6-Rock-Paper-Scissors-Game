@@ -61,6 +61,19 @@ Existing Features
 
 - __CSS__ No errors found in The official[Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgiacoren6.github.io%2FRock-Paper-Scissors-Game%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+  ## Unfixed Bugs
+  
+  - __No Unfixed Bugs__
+ 
+  ## Deployment
+
+  - __The site is Deployed by GitHub Pages the Steps are Follows:__
+  - In The GitHub Repository,Navigate to the settings Tab.
+  - From the source Section drop-down menu, select Master Branch
+  - Once the Master Branch as been selected, The page provided the link to the completed website.
+ 
+  - The live link Here[Rock Paper Scissor](https://giacoren6.github.io/Rock-Paper-Scissors-Game/)
+
 
 
 
