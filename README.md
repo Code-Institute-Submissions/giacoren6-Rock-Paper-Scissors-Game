@@ -52,8 +52,12 @@ Existing Features
  
   ## Bugs
   - __Solved Bugs__
-  - When i was deployng my project i've discoverd one bug with my Game.
-  - The issue was in index.html, cause i didn't add (assets/Js) in script with script.js.
+ - All Bugs are Solved.
+ - No bugs find in the deployment.
+
+## Validator Testing
+- __ HTML__
+ - One Warning find in Line 22[W3C validator](https://validator.w3.org/nu/#textarea)
 
 
 
