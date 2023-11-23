@@ -57,7 +57,7 @@ Existing Features
 
 ## Validator Testing
 - __ HTML__
- - One Warning find in Line 22[W3C validator](https://validator.w3.org/nu/#textarea)
+ - One Warning find in Line 22[W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgiacoren6.github.io%2FRock-Paper-Scissors-Game%2F)
 
 
 
