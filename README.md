@@ -17,7 +17,9 @@ Existing Features
 - __Game Options__
 - Game options include the possibility between tree buttons Rock,Paper,Scissors.
 - This section include,Animations and interactions with the buttons.
-  
+<img width="1375" alt="Screenshot 2023-11-23 at 17 35 58" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/38a919b7-80ac-4669-91ea-649b666ca78c">
+
+- __The Game Counter__
 
 
 
