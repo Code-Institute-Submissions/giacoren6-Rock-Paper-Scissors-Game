@@ -7,6 +7,10 @@ Welcome! and try the Game here[Rock-Paper-Scissors-Game](https://giacoren6.githu
 
 <img width="1465" alt="Screenshot 2023-11-23 at 15 11 29" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/0e2cbb5c-d8de-4346-b39d-820a0b6094aa">
 
+# Features
+Existing Features
+-__
+
 
 
 
