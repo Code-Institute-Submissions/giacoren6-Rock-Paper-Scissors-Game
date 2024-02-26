@@ -72,3 +72,16 @@ button.addEventListener("click", function () {
     document.getElementById('user-score').innerText = userScore;
     document.getElementById('computer-score').innerText = computerScore;
 });
+let images = document.getElementById('r');
+images.addEventListener('click', function () {
+    playGame('rock');
+});
+images = document.getElementById('p');
+images.addEventListener('click', function () {
+    playGame('paper');
+});
+images = document.getElementById('s');
+images.addEventListener('click', function () {
+    playGame('scissors');
+});
+
