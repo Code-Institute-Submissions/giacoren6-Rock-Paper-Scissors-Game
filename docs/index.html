@@ -3,43 +3,44 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Rock Paper Scissors GAME </title>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <title>RockPaperScissors1999</title>
+    <link rel="stylesheet" href="assets/css/style.css">    
 </head>
 
 <body>
-    <header id="idName">Rock Paper Scissors GAME</header>
-    <div id="divGame">
-        <h1 class="gameText" id="playerText">Player: </h1>
-        <h1 class="gameText" id="computerText">Computer: </h1>
-        <h1 class="gameText" id="resultText">Result: </h1>
+    <h1>RockPaperScissors1999</h1>
 
-        <button aria-label="Rock" class="choiceBtn">Rock</button>
-        <button aria-label="Paper" class="choiceBtn">Paper</button>
-        <button aria-label="Scissors" class="choiceBtn">Scissors</button>
+    <div id="game">
+        <div id="score">
+            <h2>Score</h2>
+            <p id="user-score">0</p>
+            <p id="computer-score">0</p>
+        </div>
+        <div id="result">
+            <p>Make your move</p>
+        </div>
+        <div id="choices">
+            <div class="choice" id="r">
+                <img src="assets/Images/rock.png" alt="rock">
+            </div>
+            <div class="choice" id="p">
+                <img src="assets/Images/paper.png" alt="paper">
+            </div>
+            <div class="choice" id="s">
+                <img src="assets/Images/scissors.png" alt="scissors">
+            </div>
+        </div>
+        <button id="rock">Rock</button>
+        <button id="paper">Paper</button>
+        <button id="scissors">Scissors</button>
+        <br>
+        <button id="reset">Reset</button>
     </div>
 
 
-    <section class="sectionCount">
-        <label id="countLabel">0</label><br>
-        <button id="decreaseBtn">Decrease</button>
-        <button id="resetBtn">Reset</button>
-        <button id="increaseBtn">Increase</button>
-    </section>
 
 
-
-
-
-    <div id="rules">
-        <div>Rules</div>
-        <p>Rock blunts Scissors,Paper cover Rock,Scissors cut Paper</p>
-        <p>Increase the counter everytime You Win!, If you lose Decrease one point from the counter. </p>
-        <p>Enjoy The Game.</p>
-
-    </div>
 
     <script src="assets/Js/script.js"></script>
 </body>
