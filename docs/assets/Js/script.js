@@ -38,14 +38,14 @@ function playGame(userChoice) {
     }
     alert(
         "You chose " +
-            userChoice +
-            " and the computer chose " +
-            computerChoice +
-            ". The score is " +
-            userScore +
-            " to " +
-            computerScore +
-            "."
+        userChoice +
+        " and the computer chose " +
+        computerChoice +
+        ". The score is " +
+        userScore +
+        " to " +
+        computerScore +
+        "."
     );
 
     document.getElementById('user-score').innerText = userScore;
@@ -72,3 +72,4 @@ button.addEventListener("click", function () {
     document.getElementById('user-score').innerText = userScore;
     document.getElementById('computer-score').innerText = computerScore;
 });
+
