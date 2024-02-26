@@ -72,4 +72,3 @@ button.addEventListener("click", function () {
     document.getElementById('user-score').innerText = userScore;
     document.getElementById('computer-score').innerText = computerScore;
 });
-
