@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 body {
     background-color: purple;
     color: white;
@@ -88,13 +90,26 @@ h1 {
     
 }
 
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: white;
-    color: white;
-    text-align: center;
+footer{
+    background-color: rgb(53, 102, 247);
+}
+
+#socials{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
     padding: 10px;
+    font-size: 30px;
+
+}
+
+#socials a{
+    margin: 20px;
+    color: rgb(228, 173, 35);
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
 }
