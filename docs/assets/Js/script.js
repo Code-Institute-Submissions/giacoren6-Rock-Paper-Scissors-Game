@@ -51,7 +51,6 @@ function playGame(userChoice) {
     document.getElementById('user-score').innerText = userScore;
     document.getElementById('computer-score').innerText = computerScore;
 }
-
 let button = document.getElementById("rock");
 button.addEventListener("click", function () {
     playGame("rock");
@@ -71,17 +70,21 @@ button.addEventListener("click", function () {
     computerScore = 0;
     document.getElementById('user-score').innerText = userScore;
     document.getElementById('computer-score').innerText = computerScore;
+    alert("The scores have been reset!");
 });
+
 let images = document.getElementById('r');
 images.addEventListener('click', function () {
     playGame('rock');
-});
-images = document.getElementById('p');
-images.addEventListener('click', function () {
-    playGame('paper');
-});
-images = document.getElementById('s');
-images.addEventListener('click', function () {
-    playGame('scissors');
-});
+})
+    images = document.getElementById('p');
+    images.addEventListener('click', function () {
+        playGame('paper');
+    });
+    images = document.getElementById('s');
+    images.addEventListener('click', function () {
+        playGame('scissors');
+    });
+
+
 
