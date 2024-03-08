@@ -244,6 +244,23 @@ div #result {
     margin-top: 20px;
 }
 
+#rule-section{
+    margin-top: 10px;
+    font-size: 30px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin: top, 20px;
+    color: gold;
+    border: 2px solid white;
+    background-color: rgba(23, 192, 239, 0.969);
+}
+
+#rules{
+    background-color: white;
+    color: red;
+}
+
 @media screen and (min-width: 769px) {
 
 
