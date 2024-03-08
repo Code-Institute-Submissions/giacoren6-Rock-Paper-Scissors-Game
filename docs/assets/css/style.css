@@ -247,18 +247,18 @@ div #result {
 #rule-section{
     margin-top: 10px;
     font-size: 30px;
-    color: white;
     justify-content: center;
     align-items: center;
     margin: top, 20px;
-    color: gold;
-    border: 2px solid white;
+    color: white;
+    border: 2px solid black;
     background-color: rgba(23, 192, 239, 0.969);
 }
 
 #rules{
-    background-color: white;
+    background-color:gold;
     color: red;
+    border: 2px solid rgb(23, 192, 239) ;
 }
 
 @media screen and (min-width: 769px) {

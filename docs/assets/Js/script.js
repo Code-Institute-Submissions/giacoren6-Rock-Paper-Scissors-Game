@@ -77,14 +77,14 @@ let images = document.getElementById('r');
 images.addEventListener('click', function () {
     playGame('rock');
 })
-    images = document.getElementById('p');
-    images.addEventListener('click', function () {
-        playGame('paper');
-    });
-    images = document.getElementById('s');
-    images.addEventListener('click', function () {
-        playGame('scissors');
-    });
+images = document.getElementById('p');
+images.addEventListener('click', function () {
+    playGame('paper');
+});
+images = document.getElementById('s');
+images.addEventListener('click', function () {
+    playGame('scissors');
+});
 
 
 
