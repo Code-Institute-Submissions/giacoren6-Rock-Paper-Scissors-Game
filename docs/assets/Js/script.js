@@ -1,7 +1,10 @@
+//choices
 let choices = ["rock", "paper", "scissors"];
+//user score and computer score
 let userScore = 0;
 let computerScore = 0;
 
+//computer random choice
 function computerRandom() {
     const randomChoice = Math.floor(Math.random() * 3) + 1;
     let computerChoice;
@@ -20,7 +23,7 @@ function computerRandom() {
 
     return computerChoice;
 }
-
+//function to play the game with alerts and score
 function playGame(userChoice) {
     let computerChoice = computerRandom();
     if (userChoice === computerChoice) {
@@ -51,6 +54,7 @@ function playGame(userChoice) {
     document.getElementById('user-score').innerText = userScore;
     document.getElementById('computer-score').innerText = computerScore;
 }
+//event listeners for the buttons (none of the buttons are working)
 let button = document.getElementById("rock");
 button.addEventListener("click", function () {
     playGame("rock");
@@ -64,6 +68,7 @@ button.addEventListener("click", function () {
     playGame("scissors");
 });
 
+//event listener for the reset button with an alert
 button = document.getElementById("reset");
 button.addEventListener("click", function () {
     userScore = 0;
@@ -72,7 +77,7 @@ button.addEventListener("click", function () {
     document.getElementById('computer-score').innerText = computerScore;
     alert("The scores have been reset!");
 });
-
+//event listeners for the images 
 let images = document.getElementById('r');
 images.addEventListener('click', function () {
     playGame('rock');
