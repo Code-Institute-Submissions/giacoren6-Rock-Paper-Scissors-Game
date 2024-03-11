@@ -3,8 +3,8 @@
 
 /*asterisk is a wildcard selector that targets all elements on the page*/
 * {
-    margin: 2px;
-    padding: 1px;
+    margin: 4px;
+    padding: 3px;
     box-sizing: border-box;
 }
 
