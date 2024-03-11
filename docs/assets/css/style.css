@@ -4,7 +4,7 @@
 /*asterisk is a wildcard selector that targets all elements on the page*/
 * {
     margin: 3px;
-    padding: 3px;
+    padding: 1px;
     box-sizing: border-box;
 }
 
