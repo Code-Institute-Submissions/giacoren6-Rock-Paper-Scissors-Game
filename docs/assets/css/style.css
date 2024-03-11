@@ -204,21 +204,23 @@ nav {
 /*footer,social and id's */
 footer {
     background-color: white;
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 #socials {
     align-items: center;
     justify-content: center;
-    flex-direction: column-reverse;
+    display: flex;
+    
 }
 
 #socials a {
-    margin: 0;
+    margin: 30px;
     color: purple;
     text-decoration: none;
     font-size: 30px;
     transition: 100ms;
+
 }
 
 #socials a:hover {
@@ -309,8 +311,6 @@ div #result {
     #main {
         margin-top: 80px;
     }
-
-
 }
 
 /*media query desktop(992px) */
@@ -377,6 +377,7 @@ div #result {
     /*social id */
     #socials a {
         font-size: 30px;
+        margin: 40px;
     }
 
     /*links size */
@@ -392,6 +393,7 @@ div #result {
     #score .computer {
         color: rgba(255, 0, 0, 0.882);
     }
+
 }
 
 /*media query desktop(1572px) */
@@ -469,7 +471,14 @@ div #result {
 /*media query mobile(547px) */
 @media screen and (max-width: 547px) {
     header a {
+        font-size: 15px;
+    }
+    #socials a {
         font-size: 20px;
+        margin: 10px;
     }
 
 }
+
+
+    
