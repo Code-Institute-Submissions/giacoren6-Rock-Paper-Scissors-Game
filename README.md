@@ -72,6 +72,9 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 
 <img width="568" alt="Screenshot 2024-03-14 at 18 03 44" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/4724f066-8f6a-4f79-bc72-c28f2fcadd2e">
 
+# The score area
+- This section will allow the user to check carefully the score during the game.
+- The score is easly to read for the user,which have selected in red (You and Computer) to let the score easly to the reading.
 
 
 
