@@ -51,6 +51,20 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 
 -   Interactive elements
 
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+- __Navigation Bar__
+- All two pages are responsive with navigation, the top bar include RockPaperScissors1999 page and Rules page. 
+- This section is made to let have a easy navigation by the user, page to page and device to device without having to revert back to the previous page via the back button.
+
+
+
 
 
 
