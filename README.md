@@ -86,7 +86,10 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 
 <img width="292" alt="Screenshot 2024-03-14 at 18 25 08" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/3d98ba1a-4521-44e8-93d9-c7b3a76e55ee">
 
-- This Button, Once clicked will show to the user with one alert (The scores have been reset!) 
+- This Button, Once clicked will show to the user with one alert (The scores have been reset!)
+
+<img width="411" alt="Screenshot 2024-03-14 at 18 27 09" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/6e11394e-28c0-4875-9bbc-f2d2f57406f4">
+
 
 
 
