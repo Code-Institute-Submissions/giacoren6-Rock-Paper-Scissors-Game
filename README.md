@@ -81,6 +81,13 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 # The Reset Button
 
 - This Button will let the user to reset the score and restart a new game.
+- The button is easly to read for the user
+- The button have an animation pointer with the color black. 
+
+<img width="292" alt="Screenshot 2024-03-14 at 18 25 08" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/3d98ba1a-4521-44e8-93d9-c7b3a76e55ee">
+
+- This Button, Once clicked will show to the user with one alert (The scores have been reset!) 
+
 
 
 
