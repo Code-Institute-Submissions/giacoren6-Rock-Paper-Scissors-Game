@@ -78,6 +78,11 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 
 <img width="568" alt="Screenshot 2024-03-14 at 18 03 44" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/4724f066-8f6a-4f79-bc72-c28f2fcadd2e">
 
+# The Reset Button
+
+- This Button will let the user to reset the score and restart a new game.
+
+
 
 
 
