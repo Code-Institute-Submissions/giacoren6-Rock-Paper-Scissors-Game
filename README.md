@@ -59,9 +59,10 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 -   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-- __Navigation Bar__
+  ## Navigation Bar
 - All two pages are responsive with navigation, the top bar include RockPaperScissors1999 page and Rules page. 
 - This section is made to let have a easy navigation by the user, page to page and device to device without having to revert back to the previous page via the back button.
+<img width="1451" alt="Screenshot 2024-03-14 at 17 44 29" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/49f7e649-9c6e-41a7-a48a-493393647e12">
 
 
 
