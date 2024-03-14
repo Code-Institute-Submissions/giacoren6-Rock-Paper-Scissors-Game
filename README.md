@@ -68,12 +68,14 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 # The score area
 - This section will allow the user to check carefully the score during the game.
 - The score is easly to read for the user,which have selected in red (You and Computer) to let the score easly to the reading.
+- The score will increase in case of victory by the user or the computer.
+- The score will be unchanged in case of a tie.
 
 <img width="465" alt="Screenshot 2024-03-14 at 18 13 22" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/462d83ab-3a3a-48b5-b36a-be6652149391">
 
 # The Game area
 - This section will allow the user to play the RockPaperScissors game. The user will be able to easily see icons about Rock,Paper,Scissors in 3 different colors (Red,Yellow and Heavenly).
-- The user will be able to select the type of choice easly with an animation a pointer
+- The user will be able to select the type of choice easly with a pointer animation.
 - the choice will show it with a zoom before to be select.
 
 <img width="568" alt="Screenshot 2024-03-14 at 18 03 44" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/4724f066-8f6a-4f79-bc72-c28f2fcadd2e">
