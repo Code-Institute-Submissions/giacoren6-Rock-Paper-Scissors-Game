@@ -92,6 +92,11 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 
 <img width="411" alt="Screenshot 2024-03-14 at 18 27 09" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/6e11394e-28c0-4875-9bbc-f2d2f57406f4">
 
+# The Footer Social
+
+- This section will let the user to choose in 3 diffent socials.
+- This section will let the user to open the socials in a new page.
+
 
 
 
