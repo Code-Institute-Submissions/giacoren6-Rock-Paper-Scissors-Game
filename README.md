@@ -106,6 +106,23 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 
 <img width="1447" alt="Screenshot 2024-03-14 at 18 54 12" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/aebeed0f-f3b7-469b-8a95-fe0b7fc33662">
 
+# Features Left to Implement
+- No features left to implement.
+
+## Testing
+
+ - I tested that this page works in different browsers: Chrome, and  Safari.
+ - I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
+ - I confirmed that the navigation,RockPaperScissors1999, and Rules text are all readable and easy to understand.
+
+The project is tested in a different screen sizes and works normally for mobile,tablet and desktop 
+
+mobile sizes max 547 px,
+tablet sizes min 769 px,
+desktop sizes min 992 px,
+desktop sizes min 1592 px
+
+
 
 
 
