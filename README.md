@@ -124,6 +124,63 @@ desktop sizes min 1592 px
 
 <img width="1251" alt="Screenshot 2024-03-14 at 19 11 59" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/49054405-7c82-446c-8d95-5cfe13fe8396">
 
+- #### First Time Visitor Goals
+
+    1. As a First Time Visitor, I want to easily understand the main purpose of the Gme site and understand what Game site is it.
+
+        1. The Game site is easy to understand for the user and in nav bar header the RockPaperScissors1999 and Rules.
+        2. The main Goal is made from the community and to let the community always updated.
+        3. The user have two options by RockPaperScissors1999 and Rules (In the RockPaperScissors1999 [main page] the user can play the game Rock,Paper,Scissors with the whole options of the game, In the Rules Page the user can check the Rules of the game which are easly to read and understand).
+
+    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the Game site to find content.
+
+        1. The Game site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page is.
+        2. At the bottom of the home page there are the social networks to let the user update and with the navigation easly.
+  
+    3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
+        1. The user can scroll any page and find the social link.
+
+        - #### Returning Visitor Goals
+
+    1. As a Returning Visitor, I want To do always a better score and share it with the community.
+
+        1. These are clearly shown in RockPaperScissors1999 game.
+        2. They will be directed to a page with the rules of the game.
+
+    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+
+        1. The navigation bar clearly highlights pages.
+        2.Here They can message with the social media for the organization.
+        3. The footer contains links to the organisations Facebook, Twitter and Instagram page.
+        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+  
+    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
+        2. Alternatively, the user can scroll to the bottom of the two (RockPaperScissors1999 and Rules)pages to find the Facebook, Instagram and Twitter Group.
+
+
+#### Frequent User Goals
+
+    1. As a Frequent  User, I want to check to see if there are Update to some new different style of the game.
+
+        1. The user would already be comfortable with the Game layout and can easily click the buttons and check the score.
+
+    2. As a Frequent User, I want to check to see if there are any new blog posts by social.
+
+        1. The user would already be comfortable with the Game layout and can easily click the Social Link.
+
+    3. As a Frequent User, I want to be uptated to the Game and game community in socials.
+        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
+
+
+## Bugs
+  - __Solved Bugs__
+ - All Bugs are Solved.
+ - No bugs find in the deployment.
+
+    
+
+
 
 
 
