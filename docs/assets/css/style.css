@@ -79,7 +79,6 @@ header a:hover {
 
 /*nav and id's*/
 nav {
-    position: fixed;
     background-color: white;
     width: 100%;
     box-shadow: 0 0 2px 2px purple;
