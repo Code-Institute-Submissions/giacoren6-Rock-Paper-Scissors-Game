@@ -178,6 +178,14 @@ desktop sizes min 1592 px
  - All Bugs are Solved.
  - No bugs find in the deployment.
 
+
+### Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official[W3C validator](https://validator.w3.org/nu/#textarea)
+  - CSS
+  - No errors were found when passing through the official
+
     
 
 
