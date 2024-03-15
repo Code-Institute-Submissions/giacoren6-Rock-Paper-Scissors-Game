@@ -187,11 +187,7 @@ desktop sizes min 1592 px
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgiacoren6.github.io%2FRock-Paper-Scissors-Game%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - JavaScript
 No errors were found when passing through the official [Jshint validator](https://jshint.com/)
-The following metrics were returned:
-There are 11 functions in this file.
-Function with the largest signature takes 2 arguments, while the median is 0.
-Largest function has 10 statements in it, while the median is 3.
-The most complex function has a cyclomatic complexity value of 4 while the median is 2.
+
 
 
     
