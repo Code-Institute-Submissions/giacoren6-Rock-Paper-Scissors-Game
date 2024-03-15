@@ -184,7 +184,8 @@ desktop sizes min 1592 px
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgiacoren6.github.io%2FRock-Paper-Scissors-Game%2Findex.html)
   - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator]
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgiacoren6.github.io%2FRock-Paper-Scissors-Game%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - 
 
     
 
