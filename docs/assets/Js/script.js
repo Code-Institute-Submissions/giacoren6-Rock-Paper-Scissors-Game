@@ -1,6 +1,4 @@
-//choices
-let choices = ["rock", "paper", "scissors"];
-//user score and computer score
+
 let userScore = 0;
 let computerScore = 0;
 
@@ -81,7 +79,7 @@ button.addEventListener("click", function () {
 let images = document.getElementById('r');
 images.addEventListener('click', function () {
     playGame('rock');
-})
+});
 images = document.getElementById('p');
 images.addEventListener('click', function () {
     playGame('paper');
@@ -90,6 +88,4 @@ images = document.getElementById('s');
 images.addEventListener('click', function () {
     playGame('scissors');
 });
-
-
 
