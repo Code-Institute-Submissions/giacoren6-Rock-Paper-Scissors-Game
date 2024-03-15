@@ -186,9 +186,29 @@ desktop sizes min 1592 px
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgiacoren6.github.io%2FRock-Paper-Scissors-Game%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - JavaScript
-No errors were found when passing through the official [Jshint validator](https://jshint.com/)
+  - No errors were found when passing through the official [Jshint validator](https://jshint.com/)
+
+## Unfixed Bugs
+  
+  - __No Unfixed Bugs__
 
 
+## Deployment
+ - __The site is Deployed by GitHub Pages the Steps are Follows:__
+  - In The GitHub Repository,Navigate to the settings Tab.
+  - From the source Section drop-down menu, select Master Branch
+  - Once the Master Branch as been selected, The page provided the link to the completed website.
+ 
+ Live link here(https://giacoren6.github.io/Rock-Paper-Scissors-Game/index.html)
+
+ ## Credits
+- I've find the rock,paper,scissors image's in google.
+- i got a bit of  inspitation to the my previous project.
+
+## Media
+
+- The images used for the RockPaperScissors1999 (main) page were taken from  other open source site
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
     
 
