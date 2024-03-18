@@ -58,6 +58,15 @@ header a:hover {
     color: white;
 }
 
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
 /*id links */
 #links {
     list-style-type: none;
