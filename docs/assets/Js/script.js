@@ -42,24 +42,24 @@ function playGame(userChoice) {
 
     document.getElementById('user-score').innerText = userScore;
     document.getElementById('computer-score').innerText = computerScore;
-    document.getElementById('result').innerText = "You chose " + userChoice + " and the computer chose " + computerChoice + ". The score is " + userScore + " to " + computerScore + "." + " " + result.innerText;
-{
-    if (userScore === 5) {
-        result.innerText = "Congratulations! You won the game!";
-        userScore = 0;
-        computerScore = 0;
-    } else if (computerScore === 5) {
-        result.innerText = "Sorry, you lost the game.";
-        userScore = 0;
-        computerScore = 0;
-    } else {
-        result.innerText = "The score is " + userScore + " to " + computerScore + "." + " " + result.innerText;
-    }
+    document.getElementById('result').innerText = " You chose " + userChoice + " and the computer chose " + computerChoice + " " + " " + result.innerText;
+    {
+        if (userScore === 5) {
+            result.innerText = "Congratulations! You won the game!";
+            userScore = 0;
+            computerScore = 0;
+        } else if (computerScore === 5) {
+            result.innerText = "Sorry, you lost the game.";
+            userScore = 0;
+            computerScore = 0;
+        } else {
+            result.innerText;
+        }
 
-    document.getElementById('user-score').innerText = userScore;
-    document.getElementById('computer-score').innerText = computerScore;
-    document.getElementById('result').innerText = result.innerText; 
-}
+        document.getElementById('user-score').innerText = userScore;
+        document.getElementById('computer-score').innerText = computerScore;
+        document.getElementById('result').innerText = result.innerText;
+    }
 }
 
 //event listener for the reset button with result 
