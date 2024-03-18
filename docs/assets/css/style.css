@@ -77,25 +77,7 @@ header a:hover {
 }
 
 
-/*nav and id's*/
-nav {
-    background-color: white;
-    width: 100%;
-    box-shadow: 0 0 2px 2px purple;
-    display: none;
-    top: 100%;
-}
 
-#check:checked~nav {
-    display: flex;
-    text-align: center;
-    justify-content: center;
-
-}
-
-#check {
-    display: none;
-}
 
 /*images and id's*/
 #r img {
@@ -283,12 +265,6 @@ div #result {
 /*media query tablets(769px) */
 
 @media screen and (min-width: 769px) {
-    nav {
-        display: block;
-        position: relative;
-        box-shadow: none;
-        justify-content: center;
-    }
 
     #link {
         display: flex;
@@ -296,14 +272,6 @@ div #result {
 
     #link>li {
         justify-content: center;
-    }
-
-    .checkbtn {
-        display: none;
-    }
-
-    #check {
-        display: none;
     }
 
     /*main id content*/
@@ -315,12 +283,6 @@ div #result {
 /*media query desktop(992px) */
 
 @media screen and (min-width: 992px) {
-    nav {
-        display: block;
-        position: relative;
-        box-shadow: none;
-        justify-content: center;
-    }
 
     /*id link*/
 
@@ -398,14 +360,6 @@ div #result {
 /*media query desktop(1572px) */
 @media screen and (min-width: 1572px) {
 
-
-    nav {
-        display: block;
-        position: relative;
-        box-shadow: none;
-        justify-content: center;
-    }
-
     #link {
         display: flex;
     }
@@ -478,6 +432,9 @@ div #result {
     }
 
 }
+
+
+    
 
 
     
