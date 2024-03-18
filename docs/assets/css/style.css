@@ -15,8 +15,9 @@ header {
     width: 100%;
     box-shadow: 0 0 2px 2px purple;
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: center;
+    text-align: center;
     font-size: 25px;
 }
 
@@ -63,12 +64,12 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;  
+    text-align: center;
+
 }
 
 /*id links */
 #links {
-    list-style-type: none;
     letter-spacing: normal;
     font-size: 120%;
     display: flex;
@@ -202,7 +203,7 @@ footer {
     align-items: center;
     justify-content: center;
     display: flex;
-    
+
 }
 
 #socials a {
@@ -259,7 +260,7 @@ div #result {
     font-size: 30px;
     justify-content: center;
     align-items: center;
-    margin:20px;
+    margin: 20px;
     color: white;
     border: 2px solid white;
     background-color: black;
@@ -275,15 +276,15 @@ div #result {
 /*media query tablets(769px) */
 
 @media screen and (min-width: 769px) {
-    
+
     nav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    
-    
-}
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+
+    }
 
     #link {
         display: flex;
@@ -302,15 +303,16 @@ div #result {
 /*media query desktop(992px) */
 
 @media screen and (min-width: 992px) {
-   
+
     nav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;   
-    
-    
-}
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+
+
+    }
 
     /*id link*/
 
@@ -389,13 +391,13 @@ div #result {
 @media screen and (min-width: 1572px) {
 
     nav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;    
-    
-    
-}
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+
+    }
 
     #link {
         display: flex;
@@ -461,21 +463,12 @@ div #result {
 /*media query mobile(547px) */
 @media screen and (max-width: 547px) {
     header a {
-        font-size: 15px;
+        font-size: 20px;
     }
+
     #socials a {
         font-size: 20px;
         margin: 10px;
     }
 
 }
-
-
-    
-
-
-    
-
-
-
-    
