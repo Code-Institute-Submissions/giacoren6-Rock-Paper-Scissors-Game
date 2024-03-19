@@ -388,12 +388,13 @@ li {
 @media screen and (min-width: 1572px) {
     /* CSS rules for large desktops */
 
+   
     #header {
         font-size: 50px;
     }
 
     #header a {
-        font-size: 50px;
+        font-size: 40px;
     }
 
     #r img {
@@ -430,6 +431,7 @@ li {
     #result {
         font-size: 40px;
     }
+
 }
 
 /* Media query for mobile (547px) */
