@@ -8,7 +8,7 @@ This Game, have a infinity rounds but to let it be a challege, We advise to play
 
 Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scissors-Game/)
 
-<img width="1363" alt="Screenshot 2024-03-19 at 16 01 32" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/2ce872a9-ff17-4056-bb73-5c5f6ffbdfb8">
+<img width="1363" alt="Screenshot 2024-03-19 at 16 01 32" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/39a17ae2-628a-488f-8cb2-23b017a15590">
 
 ## User Experience (UX)
 
