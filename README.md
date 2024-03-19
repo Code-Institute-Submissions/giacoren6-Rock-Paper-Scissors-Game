@@ -85,6 +85,8 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 - This Game have a end of max 5 rounds
 - everytime the score arrive at 5, the game score will restart 
 
+<img width="705" alt="Screenshot 2024-03-19 at 23 07 13" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/f2a8e665-1ed0-491b-8380-3b37bd8f8211">
+
 # The Reset Button
 
 - This Button will let the user to reset the score and restart a new game.
