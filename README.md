@@ -73,7 +73,6 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 
 <img width="231" alt="Screenshot 2024-03-19 at 22 54 17" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/ed8952aa-3d56-4e5e-a4b8-0e81f2cadff2">
 
-<img width="682" alt="Screenshot 2024-03-19 at 22 56 44" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/d96e510d-a770-4f86-b973-98e5aaf8c601">
 
 # The Game area
 - This section will allow the user to play the RockPaperScissors game. The user will be able to easily see icons about Rock,Paper,Scissors in 3 different colors (Red,Yellow and Heavenly).
