@@ -63,7 +63,7 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 - All two pages are responsive with navigation, the top bar include RockPaperScissors1999 page and Rules page. 
 - This section is made to let have a easy navigation by the user, page to page and device to device without having to revert back to the previous page via the back button.
 
-<img width="231" alt="Screenshot 2024-03-19 at 22 54 17" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/ed8952aa-3d56-4e5e-a4b8-0e81f2cadff2">
+<img width="682" alt="Screenshot 2024-03-19 at 22 56 44" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/d96e510d-a770-4f86-b973-98e5aaf8c601">
 
 # The score area
 - This section will allow the user to check carefully the score during the game.
@@ -71,7 +71,9 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 - The score will increase in case of victory by the user or the computer.
 - The score will be unchanged in case of a tie.
 
-<img width="465" alt="Screenshot 2024-03-14 at 18 13 22" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/462d83ab-3a3a-48b5-b36a-be6652149391">
+<img width="231" alt="Screenshot 2024-03-19 at 22 54 17" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/ed8952aa-3d56-4e5e-a4b8-0e81f2cadff2">
+
+<img width="682" alt="Screenshot 2024-03-19 at 22 56 44" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/d96e510d-a770-4f86-b973-98e5aaf8c601">
 
 # The Game area
 - This section will allow the user to play the RockPaperScissors game. The user will be able to easily see icons about Rock,Paper,Scissors in 3 different colors (Red,Yellow and Heavenly).
