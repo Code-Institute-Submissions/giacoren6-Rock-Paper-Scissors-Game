@@ -3,8 +3,8 @@
 
 /*asterisk is a wildcard selector that targets all elements on the page*/
 * {
-    margin: 0;
-    padding: 0;
+    margin: 2px;
+    padding: 1px;
     box-sizing: border-box;
 }
 
@@ -287,164 +287,79 @@ li {
 
 }
 
-/*media query tablets(769px) */
-
+/* Media query for tablets (769px) */
 @media screen and (min-width: 769px) {
+    /* CSS rules for tablets */
 
-    nav {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-
-
-    }
-
-    #link {
-        display: flex;
-    }
-
-    #link>li {
-        justify-content: center;
-    }
-
-    /*main id content*/
-    #main {
-        margin-top: 80px;
-    }
-
-    #score {
-        font-size: 30px;
+    #header {
+        font-size: 40px;
     }
 
     #header a {
         font-size: 30px;
-
-    }
-}
-
-/*media query desktop(992px) */
-
-@media screen and (min-width: 992px) {
-
-    nav {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-
-
-
     }
 
-    /*id link*/
-
-    #link {
-        display: flex;
-    }
-
-    #link>li {
-        justify-content: center;
-    }
-
-    /*images and id's*/
     #r img {
-        width: 120px;
-        height: 120px;
+        width: 150px;
+        height: 150px;
     }
 
     #p img {
-        width: 120px;
-        height: 120px;
+        width: 150px;
+        height: 150px;
     }
 
     #s img {
-        width: 120px;
-        height: 120px;
+        width: 150px;
+        height: 150px;
     }
 
-    /*reset button*/
     #reset {
         font-size: 30px;
     }
-
-    /*score id*/
 
     #score {
         font-size: 30px;
     }
 
-    /*result with div id */
-    div #result {
+    #rule-section {
+        font-size: 40px;
+    }
+
+    #rules {
         font-size: 30px;
     }
 
-    /*headings*/
-    header a {
+    #result {
         font-size: 30px;
     }
+}
 
-    h1 {
+/* Media query for desktops (992px) */
+@media screen and (min-width: 992px) {
+    /* CSS rules for desktops */
+
+    #header {
         font-size: 50px;
     }
 
-    /*social id */
-    #socials a {
-        font-size: 30px;
-        margin: 40px;
-    }
-
-    /*links size */
-    #links {
-        font-size: 140%;
-    }
-
-    /*score id with classes you and computer*/
-    #score .you {
-        color: rgba(255, 0, 0, 0.888);
-        font-size: 60px;
-    }
-
-    #score .computer {
-        color: rgba(255, 0, 0, 0.882);
-        font-size: 60px;
-    }
-
-}
-
-/*media query desktop(1572px) */
-@media screen and (min-width: 1572px) {
-
-    nav {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-
-
-    }
-
-    #link {
-        display: flex;
-    }
-
-    #link>li {
-        justify-content: center;
+    #header a {
+        font-size: 40px;
     }
 
     #r img {
-        width: 150px;
-        height: 150px;
+        width: 200px;
+        height: 200px;
     }
 
     #p img {
-        width: 150px;
-        height: 150px;
+        width: 200px;
+        height: 200px;
     }
 
     #s img {
-        width: 150px;
-        height: 150px;
+        width: 200px;
+        height: 200px;
     }
 
     #reset {
@@ -455,39 +370,118 @@ li {
         font-size: 40px;
     }
 
-    div #result {
+    #rule-section {
+        font-size: 50px;
+    }
+
+    #rules {
         font-size: 40px;
     }
 
-    header a {
-        font-size: 30px;
-    }
-
-    h1 {
-        font-size: 60px;
-    }
-
-    #socials a {
+    #result {
         font-size: 40px;
-    }
-
-    #links {
-        font-size: 150%;
-    }
-
-    #score .you {
-        color: rgba(255, 0, 0, 0.888);
-    }
-
-    #score .computer {
-        color: rgba(255, 0, 0, 0.882);
     }
 
 }
 
-/*media query mobile(547px) */
-@media screen and (min-width: 547px) {
+/* Media query for large desktops (1572px) */
+@media screen and (min-width: 1572px) {
+    /* CSS rules for large desktops */
+
+    #header {
+        font-size: 50px;
+    }
+
+    #header a {
+        font-size: 50px;
+    }
+
+    #r img {
+        width: 200px;
+        height: 200px;
+    }
+
+    #p img {
+        width: 200px;
+        height: 200px;
+    }
+
+    #s img {
+        width: 200px;
+        height: 200px;
+    }
+
+    #reset {
+        font-size: 40px;
+    }
+
     #score {
+        font-size: 40px;
+    }
+
+    #rule-section {
+        font-size: 50px;
+    }
+
+    #rules {
+        font-size: 40px;
+    }
+
+    #result {
+        font-size: 40px;
+    }
+}
+
+/* Media query for mobile (547px) */
+@media screen and (max-width: 547px) {
+    /* CSS rules for mobile */
+
+    #header {
         font-size: 30px;
+    }
+
+    #header a {
+        font-size: 20px;
+    }
+
+    #links {
+        font-size: 20px;
+    }
+
+
+
+    #r img {
+        width: 100px;
+        height: 100px;
+    }
+
+    #p img {
+        width: 100px;
+        height: 100px;
+    }
+
+    #s img {
+        width: 100px;
+        height: 100px;
+    }
+
+    #reset {
+        font-size: 20px;
+    }
+
+    #score {
+        font-size: 20px;
+    }
+
+    #rule-section {
+        font-size: 20px;
+    }
+
+    #rules {
+        font-size: 20px;
+    }
+
+    #result {
+        font-size: 20px;
     }
 }
