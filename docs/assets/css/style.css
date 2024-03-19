@@ -3,8 +3,8 @@
 
 /*asterisk is a wildcard selector that targets all elements on the page*/
 * {
-    margin: 2px;
-    padding: 1px;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -348,18 +348,18 @@ li {
     }
 
     #r img {
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
     }
 
     #p img {
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
     }
 
     #s img {
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
     }
 
     #reset {
@@ -398,18 +398,18 @@ li {
     }
 
     #r img {
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
     }
 
     #p img {
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
     }
 
     #s img {
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
     }
 
     #reset {
