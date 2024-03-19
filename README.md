@@ -125,7 +125,7 @@ tablet sizes min 769 px,
 desktop sizes min 992 px,
 desktop sizes min 1592 px
 
-<img width="705" alt="Screenshot 2024-03-19 at 23 07 13" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/f2a8e665-1ed0-491b-8380-3b37bd8f8211">
+<img width="682" alt="Screenshot 2024-03-19 at 23 23 39" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/1df48875-3cd2-458e-a02d-2215cdd24871">
 
 - #### First Time Visitor Goals
 
