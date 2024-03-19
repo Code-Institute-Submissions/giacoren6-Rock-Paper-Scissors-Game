@@ -292,7 +292,7 @@ li {
     /* CSS rules for tablets */
 
     #header {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     #header a {
@@ -340,11 +340,11 @@ li {
     /* CSS rules for desktops */
 
     #header {
-        font-size: 50px;
+        font-size: 40px;
     }
 
     #header a {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     #r img {
@@ -363,23 +363,23 @@ li {
     }
 
     #reset {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     #score {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     #rule-section {
-        font-size: 50px;
+        font-size: 40px;
     }
 
     #rules {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     #result {
-        font-size: 40px;
+        font-size: 30px;
     }
 
 }
@@ -390,11 +390,11 @@ li {
 
    
     #header {
-        font-size: 50px;
+        font-size: 40px;
     }
 
     #header a {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     #r img {
@@ -413,23 +413,23 @@ li {
     }
 
     #reset {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     #score {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     #rule-section {
-        font-size: 50px;
+        font-size: 40px;
     }
 
     #rules {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     #result {
-        font-size: 40px;
+        font-size: 30px;
     }
 
 }
