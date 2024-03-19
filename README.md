@@ -107,7 +107,7 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 - This page will let the user to read the rules about the game with a easly navigation.
 - This page is easy to read the rules section have 2 colors (black and white) to let the user easly to the reading.
 
-<img width="1447" alt="Screenshot 2024-03-14 at 18 54 12" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/aebeed0f-f3b7-469b-8a95-fe0b7fc33662">
+<img width="1425" alt="Screenshot 2024-03-19 at 23 43 33" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/c93cbf65-354d-431c-89e2-8728a18bcd23">
 
 # Features Left to Implement
 - No features left to implement.
