@@ -78,8 +78,11 @@ Welcome to [RockPaperScissors1999](https://giacoren6.github.io/Rock-Paper-Scisso
 - This section will allow the user to play the RockPaperScissors game. The user will be able to easily see icons about Rock,Paper,Scissors in 3 different colors (Red,Yellow and Heavenly).
 - The user will be able to select the type of choice easly with a pointer animation.
 - the choice will show it with a zoom before to be select.
+- The score will increase everytime the user or the computer make a point 
 
-<img width="568" alt="Screenshot 2024-03-14 at 18 03 44" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/4724f066-8f6a-4f79-bc72-c28f2fcadd2e">
+<img width="847" alt="Screenshot 2024-03-19 at 23 06 05" src="https://github.com/giacoren6/Rock-Paper-Scissors-Game/assets/142323106/c20a9b62-3ddc-42da-a4a8-2522244b81a0">
+
+- 
 
 # The Reset Button
 
