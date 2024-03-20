@@ -53,7 +53,7 @@ function playGame(userChoice) {
             userScore = 0;
             computerScore = 0;
         } else {
-            result.innerText;
+            result.innerText = result.innerText;
         }
 
         document.getElementById('user-score').innerText = userScore;
@@ -63,7 +63,7 @@ function playGame(userChoice) {
 }
 
 //event listener for the reset button with result 
-button = document.getElementById("reset");
+let button = document.getElementById("reset");
 button.addEventListener("click", function () {
     userScore = 0;
     computerScore = 0;
@@ -75,7 +75,7 @@ button.addEventListener("click", function () {
 let images = document.getElementById('r');
 images.addEventListener('click', function () {
     playGame('rock');
-})
+});
 images = document.getElementById('p');
 images.addEventListener('click', function () {
     playGame('paper');
@@ -84,6 +84,8 @@ images = document.getElementById('s');
 images.addEventListener('click', function () {
     playGame('scissors');
 });
+
+
 
 
 
