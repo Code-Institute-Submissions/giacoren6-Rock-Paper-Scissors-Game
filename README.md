@@ -162,7 +162,7 @@ desktop sizes min 1592 px
         2. Alternatively, the user can scroll to the bottom of the two (RockPaperScissors1999 and Rules)pages to find the Facebook, Instagram and Twitter Group.
 
 
-#### Frequent User Goals
+- #### Frequent User Goals
 
     1. As a Frequent  User, I want to check to see if there are Update to some new different style of the game.
 
