@@ -129,7 +129,7 @@ desktop sizes min 1592 px
 
 - #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the Gme site and understand what Game site is it.
+    1. As a First Time Visitor, I want to easily understand the main purpose of the Game site and understand what Game site is it.
 
         1. The Game site is easy to understand for the user and in nav bar header the RockPaperScissors1999 and Rules.
         2. The main Goal is made from the community and to let the community always updated.
